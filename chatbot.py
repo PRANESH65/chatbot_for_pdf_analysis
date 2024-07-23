@@ -48,7 +48,6 @@ async def upload_pdf(file: UploadFile = File(...)):
     else:
         raise HTTPException(status_code=400, detail="File must be a PDF")
 
-# Required for running asyncio in environments like Google Colab
 nest_asyncio.apply()
 
 # Function to start ngrok tunnel
