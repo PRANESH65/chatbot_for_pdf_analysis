@@ -2,12 +2,12 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 from pydantic import BaseModel
 import nest_asyncio
 import fitz  # PyMuPDF library
-import openai  # Ensure you have installed OpenAI Python SDK: pip install openai
+import openai 
 
 # Initialize FastAPI app
 app = FastAPI()
 
-# Initialize OpenAI API (replace with your API key)
+# Initialize OpenAI API 
 openai.api_key = "############################################"
 
 # Function to extract text from PDF using PyMuPDF
