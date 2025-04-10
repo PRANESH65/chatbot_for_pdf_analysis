@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1GmKdX-_PukXsbZlUylDiVUAL9V0sev3x/edit?usp=sharing&ouid=116663780035321444850&rtpof=true&sd=true
+
 # chatbot_for_pdf_analysis
 # FastAPI PDF Chatbot
 
