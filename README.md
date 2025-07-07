@@ -1,5 +1,3 @@
-https://drive.google.com/file/d/1CADUTCfvmwHniBcsYpCpSNL2UWGzqjWK/view?usp=sharing
-
 # chatbot_for_pdf_analysis
 # FastAPI PDF Chatbot
 
